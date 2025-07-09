@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Chandamita 👋
 
-<!--
-**chanda-db/chanda-db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Statistics, Gauhati University (2023–25)  
+📊 Focus areas: Demography, Fertility Modeling, Web Scraping, R & Python  
+🔍 Currently building my GitHub, upskilling, and exploring data careers  
+🚀 Aspirations: Data Internships | Research | PhD   
 
-Here are some ideas to get you started:
+## 🧰 Tools & Skills
+- R (Data Analysis, ggplot2)
+- Python (pandas, BeautifulSoup, matplotlib)
+- Excel, SPSS, LaTeX
+- Git & GitHub (learning phase!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Project Repositories
+- Fertility Trends in Indian States (coming soon)
+- EV Charger Scraper (planned)
